@@ -1,0 +1,19 @@
+ Write javascript program that:
+  1.Takes 5 objects strawberry,pineapple, apple, mango and pear
+  2.Puts them in an array with name "fruits"
+  3.Loops through given array of objects and displays all the objects whose total price is greater than 250 rupees.
+  (Calculate total price and check for condition)
+
+                     quantity    price per unit 
+   Strawberry           15        10
+   pineapple            10        40   
+   apple                 6        20          
+   mango                12        50
+   pear                 10        80
+
+
+  Redo the same JS Assignment, using all the following ES6 features:  
+  JavaScript Arrow Functions  
+  JavaScript Classes
+  Default parameter values
+  let, const
